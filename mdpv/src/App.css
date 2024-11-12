@@ -1,3 +1,16 @@
+#editor{
+  background-color:beige;
+  height: 300pt;
+  width: 500pt;
+}
+
+#previewarea{
+  background-color: aqua;
+  height: 500pt;
+  width: 1800pt;
+}
+
+
 .App {
   text-align: center;
 }
